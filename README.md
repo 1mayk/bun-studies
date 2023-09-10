@@ -1,1 +1,1 @@
-# bun-studies
+# bun-studies 🧄
